@@ -1,0 +1,84 @@
+body {
+    color: #3c07fb;
+    box-shadow: #fb0707;
+    font: 20px Tahoma, sans-serif;
+    background-color: #ede698;
+    margin: 3%;
+    position: static;
+}
+
+input[type="text"] {
+    height: 50px;
+    width: 55px;
+    border-color: #f1f1f4;
+    text-align: center;
+    font: 50px Arial, bold;
+    font-weight: bolder;
+    color: #fb0707;
+    background-color: #ede698; 
+    position: static;
+}
+
+input[id="integer_1"] {
+    bottom: 76mm;
+    position: relative;
+}
+
+input[id="integer_2"] {
+    /* right: -120px; */
+    bottom: 96mm;
+    left: 35mm;
+    position: relative;
+}
+
+input[id="actualResult"] {
+    font: 50px Arial, bold;
+    font-weight: bolder;
+    bottom: 116mm;
+    left: 70mm;
+    position: relative;
+}
+
+input[id="myButton"] {
+    font: 18px Arial, bold;
+    font-weight: bolder;
+    height: 55px;
+    width: 255px;
+    bottom: 136mm;
+    left: 100mm;
+    position: relative;
+}
+
+input[id="tryOneMore"] {
+    font: 16px Calibri;
+    font-weight: bolder;
+    height: 55px;
+    width: 155px;
+    bottom: 120mm;
+    left: auto;
+    position: relative;
+}
+
+h2  {
+    font: 70px Arial, bold;
+    font-weight: bolder;        
+    left: 20mm;
+    top: 3sm;
+    position: relative;
+} 
+
+h3  {
+    font: 70px Arial, bold;
+    font-weight: bolder;        
+    left: 55mm;
+    bottom: 4cm;
+    position: relative;
+} 
+
+#myimage{
+    top: -21cm;
+    left: 20cm;
+    height: 350px;
+    width: 270px;
+    position: relative;
+}
